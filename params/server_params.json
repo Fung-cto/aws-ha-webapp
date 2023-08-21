@@ -1,0 +1,10 @@
+[
+    {
+      "ParameterKey": "EnvironmentName",
+      "ParameterValue": "ha-webapp-server"
+    },
+    {
+      "ParameterKey": "NetworkEnvironmentName",
+      "ParameterValue": "ha-webapp-infra"
+    }
+  ]
