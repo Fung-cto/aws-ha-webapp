@@ -19,7 +19,7 @@
 ### CI/CD
 1. Go to CodeCommit in the AWS console.
 2. Clone the repository.
-3. Copy the file from the demo repository into the cloned folder.
+3. Copy the file from `demo-repo` into the cloned folder.
 4. Commit and push the changes.
 5. In AWS CodePipeline, approve the changes.
 6. Access the page using HTTP. You should see the demo CodeDeploy page.
