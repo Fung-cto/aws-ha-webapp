@@ -1,6 +1,6 @@
 [
-    {
-      "ParameterKey": "EnvironmentName",
-      "ParameterValue": "ha-webapp-infra"
-    }
-  ]
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "ha-webapp-infra"
+  }
+]
